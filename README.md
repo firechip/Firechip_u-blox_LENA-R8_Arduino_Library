@@ -1,14 +1,12 @@
-SparkFun u-blox SARA-R5 Arduino Library
+SparkFun u-blox LENA-R8 Arduino Library
 ==============================
 
 <table class="table table-hover table-striped table-bordered">
     <tr align="center">
-      <td><a href="https://www.sparkfun.com/products/17272"><img src="https://cdn.sparkfun.com/assets/parts/1/6/2/7/9/17272-SparkFun_MicroMod_Asset_Tracker_Carrier_Board-01a.jpg" alt="MicroMod Asset Tracker Carrier Board"></a></td>
-      <td><a href="https://www.sparkfun.com/products/18031"><img src="https://cdn.sparkfun.com/assets/parts/1/7/2/6/0/18031-SparkFun_LTE_GNSS_Breakout_-_SARA-R5-01.jpg" alt="SparkFun LTE GNSS Breakout - SARA-R5"</a></td>
+      <td><a href="https://www.u-blox.com/en/product/evk-r8"><img src="https://content.u-blox.com/sites/default/files/2022-09/EVK-R8-top_0.png" alt="Evaluation kit for LENA-R8 cellular modules"></a></td>
     </tr>
     <tr align="center">
-      <td><a href="https://www.sparkfun.com/products/17272">MicroMod Asset Tracker Carrier Board</a></td>
-      <td><a href="https://www.sparkfun.com/products/18031">LTE GNSS Breakout - SARA-R5</a></td>
+      <td><a href="https://www.u-blox.com/en/product/evk-r8">Evaluation kit for LENA-R8 cellular modules</a></td>
     </tr>
 </table>
        
