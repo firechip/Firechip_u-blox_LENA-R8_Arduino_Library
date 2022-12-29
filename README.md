@@ -1,4 +1,4 @@
-SparkFun u-blox LENA-R8 Arduino Library
+Firechip u-blox LENA-R8 Arduino Library
 ==============================
 
 <table class="table table-hover table-striped table-bordered">
